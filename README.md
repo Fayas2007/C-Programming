@@ -1,2 +1,2 @@
 # C-Programming
-Complete guide to C Programming
+Logic building Program in C
